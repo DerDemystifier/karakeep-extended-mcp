@@ -40,7 +40,7 @@ The server requires the following environment variables to function:
 | ---------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------- |
 | `KARAKEEP_URL`         | The base URL of your Karakeep instance                                                              | `https://karakeep.example.com`              |
 | `KARAKEEP_TOKEN`       | Your personal API access token                                                                      | `your_secret_token_here`                    |
-| `KARAKEEP_OPENAPI_URL` | (Optional) URL to the OpenAPI spec. If not provided, it uses the local `karakeep-openapi-spec.json` | `https://karakeep.example.com/openapi.json` |
+| `KARAKEEP_OPENAPI_URL` | (Optional) URL to the OpenAPI spec. If not provided, it uses the local `karakeep-openapi-spec-v0.32.0.json` | `https://karakeep.example.com/openapi.json` |
 
 ## Claude Desktop Configuration
 

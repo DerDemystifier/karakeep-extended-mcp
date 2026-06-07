@@ -18,7 +18,7 @@ def load_openapi_spec() -> dict:
         return httpx.get(spec_url, timeout=30).json()
 
     # Check in the current directory
-    with open(Path(__file__).parent / "karakeep-openapi-spec.json", "r") as f:
+    with open(Path(__file__).parent / "karakeep-openapi-spec-v0.32.0.json", "r") as f:
         return json.loads(f.read())
 
 
