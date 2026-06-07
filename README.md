@@ -21,7 +21,7 @@ This server is built using `FastMCP` and dynamically generates tools based on th
 1. **Clone the repository**:
 
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/DerDemystifier/karakeep-extended-mcp.git
     cd karakeep-extended-mcp
     ```
 
