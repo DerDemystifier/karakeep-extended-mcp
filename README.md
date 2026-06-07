@@ -84,4 +84,4 @@ python karakeep-extended-mcp.py
 
 ## License
 
-[Specify your license, e.g., MIT]
+This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
